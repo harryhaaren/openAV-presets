@@ -1,0 +1,28 @@
+
+    Presets - OpenAV Productions
+
+  http://openavproductions.com
+
+This is the repository of presets for OpenAV projects
+
+
+== INSTALL
+To install, just run the script
+
+$  ./install.sh
+
+
+== USAGE
+After the INSTALL step Ardour3, QTractor, and any other LV2 host should
+automatically find the preset, and add it to their GUI's.
+
+
+== CONTRIBUTING PRESETS
+Please get in contact if you'd like to add presets to the repository.
+Forking on github, and sending a merge request is recommended.
+
+
+== CONTACT
+If you want to get in touch, please do!
+-Harry van Haaren
+ harryhaaren@gmail.com
